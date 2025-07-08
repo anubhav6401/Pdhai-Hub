@@ -1,4 +1,4 @@
-📚 Pdhai Hub
+📚 Pdhai Hub:https://pdhaihub.github.io/pdhaiHub_/
 Pdhai Hub is a centralized academic resource platform built for students, by students. It simplifies access to curated study materials, previous year question papers, lab manuals, notes, and project ideas — all in one place.
 
 🚀 Features
