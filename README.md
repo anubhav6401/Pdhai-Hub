@@ -20,7 +20,7 @@ Pdhai Hub is a centralized academic resource platform built for students, by stu
 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript 
 
-Design Tools: Figma / Canva (if applicable)
+Design Tools: Figma & Canva 
 
 🤝 Contributing
 Have resources to share or ideas to improve the platform? Contributions are welcome! Feel free to fork the repo and raise a pull request.
